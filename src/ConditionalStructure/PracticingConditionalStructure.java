@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class PracticingConditionalStructure {
 
-    //Estrutura condicioanal simples, para pratica
+    //Estrutura condicioanal simples, para praticar
 
     public static void main(String[] args) {
 
@@ -24,7 +24,7 @@ public class PracticingConditionalStructure {
 
         //-------------------------------------------//
 
-        //Estrutura condicioanal composta, para pratica
+        //Estrutura condicioanal composta, para praticar
 
       /*  Scanner sc = new Scanner(System.in);
         int hora;
@@ -64,7 +64,7 @@ public class PracticingConditionalStructure {
         }*/
 //----------------------------------------------------------------------------
 
-        /*Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não*/
+        /*Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não negativo*/
       /*  int inteiro;
 
         System.out.println("Qual número ? ");
