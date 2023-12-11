@@ -349,7 +349,7 @@ public class PracticingConditionalStructure {
 		System.out.println("Dia da semana: " + dia);
 
 		
-		// scopo de vatiaveis:
+		// scopo de variáveis:
 		double price = 100.00;
 		double discount = 0;
 		if (price < 50.00) {
